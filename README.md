@@ -6,7 +6,7 @@ The detailed description of time shift analysis was showed in the following refe
 
  >Lv, Y., Margulies, D. S., Cameron Craddock, R., Long, X., Winter, B., Gierhake, D., ... & Villringer, A. (2013). Identifying the perfusion deficit in acute stroke with resting‐state functional magnetic resonance imaging. Annals of neurology, 73(1), 136-140.      
  
- #### Citing Information:
+ ### Citing Information:
   If you think TSA is useful for your work, citing it in your paper would be greatly appreciated!    
  
   _An example_:  
